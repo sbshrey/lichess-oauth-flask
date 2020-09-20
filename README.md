@@ -5,6 +5,10 @@ Go here: https://lichess.org/account/oauth/app
 
 Make an app, the homepage url is: http://127.0.0.1:5000/ the callback url is: http://127.0.0.1:5000/authorize
 
+
+Client ID	ej97ll1Ibmj0T67Q
+Client Secret	GtFx82sAXfhrFh9BVZhCRmS9uowJPatK
+
 Step 2: Make .env file
 ----------------------
 make a `.env` file with the following contents:
